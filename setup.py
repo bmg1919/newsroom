@@ -6,7 +6,7 @@ install_requires = [
     'eve-elastic==2.5.0',
     'WTForms==2.2.1',
     'flask>=0.12,<1.0',
-    'flask-babel>=0.11.2,<0.12',
+    'flask-babel>=0.11.2,<=0.12.2',
     'flask-webpack>=0.1.0,<0.2',
     'Flask-WTF>=0.14.2,<0.15',
     'flask-limiter>=0.9.5.1,<0.9.6',
